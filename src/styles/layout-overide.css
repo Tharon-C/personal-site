@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    height: 100%;
+}
+img {
+    margin: 0;
+}
+body {
+    background:#c4e0fd;
+    font-family: Helvetica, Arial, sans-serif;
+}
